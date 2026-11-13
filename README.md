@@ -46,7 +46,7 @@ In Claude Code:
 
 - `python3`
 - The [Codex CLI](https://github.com/openai/codex), logged in
-- The Codex plugin for Claude Code (`openai-codex`). The Codex indicator reads its job records to tell when Codex is working.
+- The [Codex plugin for Claude Code](https://github.com/openai/codex-plugin-cc) (`openai-codex`). The Codex indicator reads its job records to tell when Codex is working.
 
 Without Codex, the Claude side still works and the Codex side shows `—`.
 
