@@ -1,0 +1,5 @@
+{
+  "name": "local-mods",
+  "owner": { "name": "Matteus Legat" },
+  "plugins": [{ "name": "codex-claude", "source": "./codex-claude" }]
+}

@@ -1,0 +1,3 @@
+.DS_Store
+# Types the engine writes when it loads the mod
+codex-claude/.claude-plugin/types/

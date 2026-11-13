@@ -1,0 +1,19 @@
+{
+  "name": "codex-claude",
+  "version": "0.49.0",
+  "description": "Shows Claude and Codex context usage side by side above the prompt, and in a /context-all pane",
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "layout": {
+      "type": "string",
+      "title": "Band layout",
+      "description": "models: a +/- button, then one row per model (context bar, usage ring, thinking). rings: Context / Usage buttons, then the marks. buttons: a ring and a percentage button per model.",
+      "options": [
+        "models",
+        "rings",
+        "buttons"
+      ],
+      "default": "models"
+    }
+  }
+}
