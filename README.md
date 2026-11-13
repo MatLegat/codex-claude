@@ -44,6 +44,7 @@ In Claude Code:
 
 ### Requirements
 
+- [Claude Code](https://claude.com/claude-code): the desktop app, the VS Code extension or the terminal. Keep it up to date: the band uses a recent plugin feature (tested with 2.1.323).
 - `python3`
 - The [Codex CLI](https://github.com/openai/codex), logged in
 - The [Codex plugin for Claude Code](https://github.com/openai/codex-plugin-cc) (`openai-codex`). The Codex indicator reads its job records to tell when Codex is working.
